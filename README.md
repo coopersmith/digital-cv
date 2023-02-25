@@ -2,7 +2,7 @@
 
 _Senior Product Design Manager based in New York City 🗽_ <br>
 
-[Email](mailto:coopersmi@gmail.com) / [Website](https://coopsmith.co/) / [LinkedIn](https://www.linkedin.com/in/coopersmith/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](mailto:coopersmi@gmail.com) / [Website](https://coopsmith.co/) / [LinkedIn](https://www.linkedin.com/in/coopersmith/) / [Twitter](https://twitter.com/coops/) 
 
 ## 👨🏻‍💻 Work Experience
 
@@ -25,7 +25,12 @@ Description of role
   - Product Design Manager, Lyft Experiences and Platforms  (Rider App + Mapping) (October 2020 - Present)  _(Jun 2022 - Present)_
     - Bullet
   - Bullet
-    - Bullet    
+    - Bullet   
+    
+**✅ UX Designer** @ [Foursquare](https://foursquare.com/) _(May 2012 - May 2015)_ <br>
+Description of role
+  - Bullet
+    - Bullet 
     
 ## 👨🏻‍🎓 Education
 
