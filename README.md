@@ -6,6 +6,9 @@ _Senior Product Design Manager based in New York City 🗽_ <br>
 
 ## 👨🏻‍💻 Work Experience
 
+### Sorare _(Jun 2022 - Present)_
+_Senior Product Design Manager_
+
 **🏀 Senior Product Design Manager** @ [Sorare](https://sorare.com/) _(Jun 2022 - Present)_ <br>
 Building a world class team of product designers in Paris and New York
   - Bullet
