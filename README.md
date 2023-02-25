@@ -6,15 +6,6 @@ _Senior Product Design Manager based in New York City 🗽_ <br>
 
 ## 👨🏻‍💻 Work Experience
 
-### Sorare 
-**Senior Product Design Manager** _(Jun 2022 - Present)_ <br>
-
-### Lyft
-**Senior Product Design Manager** _(Jun 2022 - Present)_ <br>
-**Product Design Manager** _(Jun 2022 - Present)_ <br>
-**Staff Product Designer / Product Design Manager** _(Jun 2022 - Present)_ <br>
-
-
 
 **🏀 Senior Product Design Manager** @ [Sorare](https://sorare.com/) _(Jun 2022 - Present)_ <br>
 Building a world class team of product designers in Paris and New York
@@ -25,7 +16,7 @@ Building a world class team of product designers in Paris and New York
 
 **🚙 Senior Product Design Manager** @ [Lyft](https://sorare.com/) _(Jun 2018 - May 2022)_ <br>
 Description of role
-  - Product Design Manager, Lyft Experiences and Platforms  (Rider App + Mapping) (October 2020 - Present)  _(Jun 2022 - Present)_
+  - *Product Design Manager, Lyft Experiences and Platforms  (Rider App + Mapping) (October 2020 - Present)  _(Jun 2022 - Present)_
     - Bullet
   - Bullet
     - Bullet
@@ -38,9 +29,10 @@ Description of role
     - Bullet   
     
 **✅ UX Designer** @ [Foursquare](https://foursquare.com/) _(May 2012 - May 2015)_ <br>
-Description of role
-  - Bullet
-    - Bullet 
+  - After Foursquare/Swarm split - designed Foursquare content creation features from the ground up, including tip creation and ratings collection, as well as activity stream, profile, and overall app information architecture. 
+  - Prior to the split - designed consumer engagement features, including check-ins, achievements and user profile. 
+  - Worked closely with teams of product managers, engineers, designers and researchers to prototype, iterate, and launch new features used by millions of users worldwide.
+
     
 ## 👨🏻‍🎓 Education
 
