@@ -11,9 +11,9 @@ _Senior Product Design Manager_ _(Jun 2022 - Present)_
 
 
 ### 🚙 Lyft
-_Senior Product Design Manager_ _(Jun 2022 - Present)_
-_Product Design Manager_ _(Jun 2022 - Present)_
-_Staff Product Designer / Product Design Manager_ _(Jun 2022 - Present)_
+Senior Product Design Manager _(Jun 2022 - Present)_
+Product Design Manager _(Jun 2022 - Present)_
+Staff Product Designer / Product Design Manager _(Jun 2022 - Present)_
 
 
 
