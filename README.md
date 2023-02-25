@@ -7,13 +7,13 @@ _Senior Product Design Manager based in New York City 🗽_ <br>
 ## 👨🏻‍💻 Work Experience
 
 ### 🏀 Sorare 
-_Senior Product Design Manager_ _(Jun 2022 - Present)_
+_Senior Product Design Manager_ _(Jun 2022 - Present)_ <br>
 
 
 ### 🚙 Lyft
-Senior Product Design Manager _(Jun 2022 - Present)_
-Product Design Manager _(Jun 2022 - Present)_
-Staff Product Designer / Product Design Manager _(Jun 2022 - Present)_
+Senior Product Design Manager _(Jun 2022 - Present)_ <br>
+Product Design Manager _(Jun 2022 - Present)_ <br>
+Staff Product Designer / Product Design Manager _(Jun 2022 - Present)_ <br>
 
 
 
