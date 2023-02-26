@@ -9,10 +9,7 @@ _Senior Product Design Manager based in New York City 🗽_ <br>
 
 **🏀 Senior Product Design Manager** @ [Sorare](https://sorare.com/) _(Jun 2022 - Present)_ <br>
 Building a world class team of product designers in Paris and New York
-  - Bullet
-  - Bullet
-  - Bullet
-<br><br>
+<br>
 
 **🚙 Senior Product Design Manager** @ [Lyft](https://sorare.com/) _(Jun 2018 - May 2022)_ <br>
 In my nearly four years at Lyft, I grew from a senior product designer to a senior designer manager, leading and managing a team of 10 designers for the core Rider experience, as well as our Mapping team. 
@@ -23,7 +20,7 @@ In my nearly four years at Lyft, I grew from a senior product designer to a seni
 
 **🐦 Senior Product Designer** @ [Twitter](https://twitter.com/) _(May 2015 - May 2018)_ <br>
 Description of role
-  - _Senior Product Designer (Jul 2016 - Apr 2018)__
+  - _Senior Product Designer (Jul 2016 - Apr 2018)_
   - _Product Designer (Mar 2015 - Jul 2016)_  
     
 **📍 UX Designer** @ [Foursquare](https://foursquare.com/) _(May 2012 - May 2015)_ <br>
@@ -48,3 +45,6 @@ Description of role
 
 **Bachelor of Science** in Journalism and Advertising<br>
 [University of Colorado Boulder](https://www.colorado.edu/) - Boulder, Colorado _(2003 - 2007)_
+
+
+## 📰 Articles
