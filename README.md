@@ -28,10 +28,16 @@ Description of role
   - Bullet
     - Bullet   
     
-**✅ UX Designer** @ [Foursquare](https://foursquare.com/) _(May 2012 - May 2015)_ <br>
+**📍 UX Designer** @ [Foursquare](https://foursquare.com/) _(May 2012 - May 2015)_ <br>
   - After Foursquare/Swarm split - designed Foursquare content creation features from the ground up, including tip creation and ratings collection, as well as activity stream, profile, and overall app information architecture. 
   - Prior to the split - designed consumer engagement features, including check-ins, achievements and user profile. 
   - Worked closely with teams of product managers, engineers, designers and researchers to prototype, iterate, and launch new features used by millions of users worldwide.
+
+**👟 Product Design Intern** @ [Nike](https://nike.com/) _(May 2011 - August 2011)_ <br>
+
+**Digital Producer** @ Factory Design Labs _(May 2011 - August 2011)_ <br>
+
+
 
     
 ## 👨🏻‍🎓 Education
