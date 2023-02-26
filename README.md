@@ -15,7 +15,7 @@ Building a world class team of product designers in Paris and New York
 <br><br>
 
 **🚙 Senior Product Design Manager** @ [Lyft](https://sorare.com/) _(Jun 2018 - May 2022)_ <br>
-Description of role
+In my nearly four years at Lyft, I grew from a senior product designer to a senior designer manager, leading and managing a team of 10 designers for the core Rider experience, as well as our Mapping team. 
   - *Product Design Manager, Lyft Experiences and Platforms  (Rider App + Mapping) (October 2020 - Present)  _(Jun 2022 - Present)_
     - Bullet
   - Bullet
