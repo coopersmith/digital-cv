@@ -17,7 +17,7 @@ Building a world class team of product designers in Paris and New York
 **🚙 Senior Product Design Manager** @ [Lyft](https://sorare.com/) _(Jun 2018 - May 2022)_ <br>
 In my nearly four years at Lyft, I grew from a senior product designer to a senior designer manager, leading and managing a team of 10 designers for the core Rider experience, as well as our Mapping team. 
   - *Product Design Manager, Lyft Experiences and Platforms  (Rider App + Mapping) (October 2020 - Present)  _(Jun 2022 - Present)_
-    - Bullet
+  - Bullet
   - Bullet
     - Bullet
 
@@ -36,6 +36,9 @@ Description of role
 **👟 Product Design Intern** @ [Nike](https://nike.com/) _(May 2011 - August 2011)_ <br>
 
 **Digital Producer** @ Factory Design Labs _(May 2011 - August 2011)_ <br>
+**Jr Producer** @ Wieden and Kennedy _(May 2011 - August 2011)_ <br>
+**Interaction Coordinator** @ Crispin Porter + Bogusky _(May 2011 - August 2011)_ <br>
+
 
 
 
