@@ -23,10 +23,8 @@ In my nearly four years at Lyft, I grew from a senior product designer to a seni
 
 **🐦 Senior Product Designer** @ [Twitter](https://twitter.com/) _(May 2015 - May 2018)_ <br>
 Description of role
-  - Product Design Manager, Lyft Experiences and Platforms  (Rider App + Mapping) (October 2020 - Present)  _(Jun 2022 - Present)_
-    - Bullet
-  - Bullet
-    - Bullet   
+  - _Senior Product Designer (Jul 2016 - Apr 2018)__
+  - _Product Designer (Mar 2015 - Jul 2016)_  
     
 **📍 UX Designer** @ [Foursquare](https://foursquare.com/) _(May 2012 - May 2015)_ <br>
   - After Foursquare/Swarm split - designed Foursquare content creation features from the ground up, including tip creation and ratings collection, as well as activity stream, profile, and overall app information architecture. 
