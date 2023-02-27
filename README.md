@@ -13,17 +13,17 @@ Building a world class team of product designers in Paris and New York
 
 **🚙 Senior Product Design Manager** @ [Lyft](https://sorare.com/) _(Jun 2018 - May 2022)_ <br>
 In my nearly four years at Lyft, I grew from a senior product designer to a senior designer manager, leading and managing a team of 10 designers for the core Rider experience, as well as our Mapping team. 
-  - *Product Design Manager, Lyft Experiences and Platforms  (Rider App + Mapping) (October 2020 - Present)  _(Jun 2022 - Present)_
-  - Bullet
-  - Bullet
-    - Bullet
+  - _Senior Product Design Manager (Feb 2022-June 2022)+_
+  - _Product Design Manager (Oct 2020 - Feb 2022)_ 
+  - _Staff Product Designer + Product Design Manager (Individual Contribute + Management track) (Feb 2020 - Oct 2020)_
+  - _Senior Product Designer (Jul 2018 - Feb 2020)_ 
 
-**🐦 Senior Product Designer** @ [Twitter](https://twitter.com/) _(May 2015 - May 2018)_ <br>
+**🐦 Senior Product Designer** @ [Twitter](https://twitter.com/) _(Mar 2015 - May 2018)_ <br>
 Description of role
-  - _Senior Product Designer (Jul 2016 - Apr 2018)_
+  - _Senior Product Designer (Jul 2016 - May 2018)_
   - _Product Designer (Mar 2015 - Jul 2016)_  
     
-**📍 UX Designer** @ [Foursquare](https://foursquare.com/) _(May 2012 - May 2015)_ <br>
+**📍 UX Designer** @ [Foursquare](https://foursquare.com/) _(Jun 2012 - Feb 2015)_ <br>
   - After Foursquare/Swarm split - designed Foursquare content creation features from the ground up, including tip creation and ratings collection, as well as activity stream, profile, and overall app information architecture. 
   - Prior to the split - designed consumer engagement features, including check-ins, achievements and user profile. 
   - Worked closely with teams of product managers, engineers, designers and researchers to prototype, iterate, and launch new features used by millions of users worldwide.
@@ -31,11 +31,11 @@ Description of role
 **👟 Product Design Intern** @ [Nike](https://nike.com/) _(May 2011 - August 2011)_ <br>
 
 **Digital Producer** @ Factory Design Labs _(May 2011 - August 2011)_ <br>
+<br>
 **Jr Producer** @ Wieden and Kennedy _(May 2011 - August 2011)_ <br>
+<br>
 **Interaction Coordinator** @ Crispin Porter + Bogusky _(May 2011 - August 2011)_ <br>
-
-
-
+<br>
 
     
 ## 👨🏻‍🎓 Education
