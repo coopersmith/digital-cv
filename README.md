@@ -57,8 +57,8 @@ Description of role
 
 
 
-###Lyft (July 2018 - June 2022)
-###### Senior Product Design Manager (Feb 2022-June 2022)_
-###### Product Design Manager (Oct 2020 - Feb 2022)_ 
-###### Staff Product Designer + Product Design Manager (ICM) (Feb 2020 - Oct 2020)_
-###### Senior Product Designer (Jul 2018 - Feb 2020)_ 
+### Lyft (July 2018 - June 2022)
+###### Senior Product Design Manager (Feb 2022-June 2022)
+###### Product Design Manager (Oct 2020 - Feb 2022)
+###### Staff Product Designer + Product Design Manager (ICM) (Feb 2020 - Oct 2020) 
+###### Senior Product Designer (Jul 2018 - Feb 2020) 
