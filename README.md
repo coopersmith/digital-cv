@@ -31,11 +31,9 @@ Description of role
 **👟 Product Design Intern** @ [Nike](https://nike.com/) _(May 2011 - August 2011)_ <br>
 
 **Digital Producer** @ Factory Design Labs _(May 2011 - August 2011)_ <br>
-<br>
 **Jr Producer** @ Wieden and Kennedy _(May 2011 - August 2011)_ <br>
-<br>
 **Interaction Coordinator** @ Crispin Porter + Bogusky _(May 2011 - August 2011)_ <br>
-<br>
+
 
     
 ## 👨🏻‍🎓 Education
