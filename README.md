@@ -13,10 +13,10 @@ Building a world class team of product designers in Paris and New York
 
 **Senior Product Design Manager** @ [Lyft](https://sorare.com/) _(Jun 2018 - May 2022)_ <br>
 In my nearly four years at Lyft, I grew from a senior product designer to a senior designer manager, leading and managing a team of 10 designers for the core Rider experience, as well as our Mapping team. 
-  ###### Senior Product Design Manager (Feb 2022-June 2022)_
-  ###### Product Design Manager (Oct 2020 - Feb 2022)_ 
-  ###### Staff Product Designer + Product Design Manager (ICM) (Feb 2020 - Oct 2020)_
-  ###### Senior Product Designer (Jul 2018 - Feb 2020)_ 
+  - _Senior Product Design Manager (Feb 2022-June 2022)_
+  - _Product Design Manager (Oct 2020 - Feb 2022)_ 
+  - _Staff Product Designer + Product Design Manager (ICM) (Feb 2020 - Oct 2020)_
+  - _Senior Product Designer (Jul 2018 - Feb 2020)_ 
 
 **Senior Product Designer** @ [Twitter](https://twitter.com/) _(Mar 2015 - May 2018)_ <br>
 Description of role
@@ -54,3 +54,11 @@ Description of role
 🏃🏻‍♂️ Tracking my runs on [Strava](https://www.strava.com/athletes/77514)<br>
 🎧 Sharing playlists on [Spotify](https://open.spotify.com/playlist/0Z0AmcHYTioe3dUqFBXv5Q?si=a0d8ed185c524482)<br>
 🎬 Tracking my movies on [Letterboxd](https://letterboxd.com/coopersmith/)<br>
+
+
+
+###Lyft (July 2018 - June 2022)
+###### Senior Product Design Manager (Feb 2022-June 2022)_
+###### Product Design Manager (Oct 2020 - Feb 2022)_ 
+###### Staff Product Designer + Product Design Manager (ICM) (Feb 2020 - Oct 2020)_
+###### Senior Product Designer (Jul 2018 - Feb 2020)_ 
