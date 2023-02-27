@@ -54,11 +54,3 @@ Description of role
 🏃🏻‍♂️ Tracking my runs on [Strava](https://www.strava.com/athletes/77514)<br>
 🎧 Sharing playlists on [Spotify](https://open.spotify.com/playlist/0Z0AmcHYTioe3dUqFBXv5Q?si=a0d8ed185c524482)<br>
 🎬 Tracking my movies on [Letterboxd](https://letterboxd.com/coopersmith/)<br>
-
-
-
-### Lyft (July 2018 - June 2022)
-###### Senior Product Design Manager (Feb 2022-June 2022)
-###### Product Design Manager (Oct 2020 - Feb 2022)
-###### Staff Product Designer + Product Design Manager (ICM) (Feb 2020 - Oct 2020) 
-###### Senior Product Designer (Jul 2018 - Feb 2020) 
