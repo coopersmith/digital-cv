@@ -6,7 +6,6 @@ _Senior Product Design Manager based in New York City 🗽_ <br>
 
 ## 👨🏻‍💻 Work Experience
 
-
 **🏀 Senior Product Design Manager** @ [Sorare](https://sorare.com/) _(Jun 2022 - Present)_ <br>
 Building a world class team of product designers in Paris and New York
 <br>
@@ -53,3 +52,4 @@ Interned at Nike World HQ in Portland, Oregon in between semesters at School of 
 🏃🏻‍♂️ Tracking my runs on [Strava](https://www.strava.com/athletes/77514)<br>
 🎧 Sharing playlists on [Spotify](https://open.spotify.com/playlist/0Z0AmcHYTioe3dUqFBXv5Q?si=a0d8ed185c524482)<br>
 🎬 Logging my movies on [Letterboxd](https://letterboxd.com/coopersmith/)<br>
+📍 Discovering great places and sharing on [Google](https://www.google.com/maps/contrib/102608910595378115256/reviews/@44.3647624,-60.6422455,3z/data=!3m1!4b1!4m3!8m2!3m1!1e1)<br>
