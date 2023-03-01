@@ -29,6 +29,7 @@ Description of role
   - Worked closely with teams of product managers, engineers, designers and researchers to prototype, iterate, and launch new features used by millions of users worldwide.
 
 **👟 Product Design Intern** @ [Nike](https://nike.com/) _(May 2011 - August 2011)_ <br>
+Interned at Nike World HQ in Portland, Oregon in between semesters at School of Visual Arts. Designed new engagement features focused on achievements, location, and data visualization for Nike+ Running. Created detailed wireframes to hand off to visual design and engineering partner. Collaborated on projects for Nike+ FuelBand, Nike+ Basketball, and Nike+ Training.
 
 **Digital Producer** @ Factory Design Labs _(May 2011 - August 2011)_ <br>
 **Jr Producer** @ Wieden and Kennedy _(May 2011 - August 2011)_ <br>
