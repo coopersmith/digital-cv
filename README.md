@@ -51,4 +51,4 @@ Description of role
 
 🏃🏻‍♂️ Tracking my runs on [Strava](https://www.strava.com/athletes/77514)<br>
 🎧 Sharing playlists on [Spotify](https://open.spotify.com/playlist/0Z0AmcHYTioe3dUqFBXv5Q?si=a0d8ed185c524482)<br>
-🎬 Tracking my movies on [Letterboxd](https://letterboxd.com/coopersmith/)<br>
+🎬 Logging my movies on [Letterboxd](https://letterboxd.com/coopersmith/)<br>
