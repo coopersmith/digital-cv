@@ -23,9 +23,7 @@ Description of role
   - _Product Designer (Mar 2015 - Jul 2016)_  
     
 **📍 UX Designer** @ [Foursquare](https://foursquare.com/) _(Jun 2012 - Feb 2015)_ <br>
-  - After Foursquare/Swarm split - designed Foursquare content creation features from the ground up, including tip creation and ratings collection, as well as activity stream, profile, and overall app information architecture. 
-  - Prior to the split - designed consumer engagement features, including check-ins, achievements and user profile. 
-  - Worked closely with teams of product managers, engineers, designers and researchers to prototype, iterate, and launch new features used by millions of users worldwide.
+  Following the split between Foursquare and Swarm, I was responsible for designing the new Foursquare's content creation features such as tip creation and ratings collection, as well as the activity stream, profile, and helped shape overall app information architecture from the ground up. Prior to the split, I designed consumer engagement features, including check-ins, achievements, and user profiles. Throughout the design process, I worked closely with product managers, engineers, designers, and researchers to prototype, iterate, and launch new features. These features are now being used by millions of users around the world.
 
 **👟 Product Design Intern** @ [Nike](https://nike.com/) _(May 2011 - August 2011)_ <br>
 Interned at Nike World HQ in Portland, Oregon in between semesters at School of Visual Arts. Designed new engagement features focused on achievements, location, and data visualization for Nike+ Running. Created detailed wireframes to hand off to visual design and engineering partner. Collaborated on projects for Nike+ FuelBand, Nike+ Basketball, and Nike+ Training.
