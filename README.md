@@ -1,6 +1,6 @@
 # Cooper Smith
 
-_Senior Product Design Manager based in New York City 🗽_ <br>
+_Product design leader based in New York City 🗽_ <br>
 
 [Email](mailto:coopersmi@gmail.com) / [Website](https://coopsmith.co/) / [LinkedIn](https://www.linkedin.com/in/coopersmith/) / [Twitter](https://twitter.com/coops/) 
 
