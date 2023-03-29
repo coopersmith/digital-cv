@@ -1,13 +1,13 @@
 # Cooper Smith
 
-_Building world class products and design teams in New York City 🗽_ <br>
+_Building world class products and the teams that design them in New York City 🗽_ <br>
 
 [Email](mailto:coopersmi@gmail.com) / [Website](https://coopsmith.co/) / [LinkedIn](https://www.linkedin.com/in/coopersmith/) / [Twitter](https://twitter.com/coops/) 
 
 ## 👨🏻‍💻 Work Experience
 
 **🏀 Senior Product Design Manager** @ [Sorare](https://sorare.com/) _(Jun 2022 - Present)_ <br>
-Building a world class team of product designers in Paris and New York
+Building a product and design team from 0 to 1 in New York City and Paris. 
 <br>
 
 **🚙 Senior Product Design Manager** @ [Lyft](https://sorare.com/) _(Jun 2018 - May 2022)_ <br>
@@ -28,9 +28,9 @@ Description of role
 **👟 Product Design Intern** @ [Nike](https://nike.com/) _(May 2011 - August 2011)_ <br>
 Interned at Nike World HQ in Portland, Oregon in between semesters at School of Visual Arts. Designed new engagement features focused on achievements, location, and data visualization for Nike+ Running. Created detailed wireframes to hand off to visual design and engineering partner. Collaborated on projects for Nike+ FuelBand, Nike+ Basketball, and Nike+ Training.
 
-**Digital Producer** @ Factory Design Labs _(May 2011 - August 2011)_ <br>
-**Jr Producer** @ Wieden and Kennedy _(May 2011 - August 2011)_ <br>
-**Interaction Coordinator** @ Crispin Porter + Bogusky _(May 2011 - August 2011)_ <br>
+**💻 Digital Producer** @ Factory Design Labs _(May 2011 - August 2011)_ <br>
+**💻 Jr Producer** @ Wieden and Kennedy _(May 2011 - August 2011)_ <br>
+**💻 Interaction Coordinator** @ Crispin Porter + Bogusky _(May 2011 - August 2011)_ <br>
 
 
     
