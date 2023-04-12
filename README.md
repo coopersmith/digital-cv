@@ -18,7 +18,7 @@ In my nearly four years at Lyft, I grew from a senior product designer to a seni
   - _Senior Product Designer (Jul 2018 - Feb 2020)_ 
 
 **🐦 Senior Product Designer** @ [Twitter](https://twitter.com/) _(Mar 2015 - May 2018)_ <br>
-Description of role
+The majority of my three+ years at Twitter were spent bringing editorial and human curated content into the Twitter product to help add context to what users were seeing. Largely, this was through Moments and its successor of Events, but also in Information Quality / Health following the 2016 election, including Account Labels and misinformation. More context available in portfolio.
   - _Senior Product Designer (Jul 2016 - May 2018)_
   - _Product Designer (Mar 2015 - Jul 2016)_  
     
@@ -44,6 +44,10 @@ Interned at Nike World HQ in Portland, Oregon in between semesters at School of 
 
 
 ## 📰 Articles
+[Inside Lyft’s years-long effort to give its drivers better maps](https://www.fastcompany.com/90839884/inside-lyfts-years-long-effort-to-give-its-drivers-better-maps) _(2023)_ <br>
+[Lyft has made airport pickups quicker and less confusing by taking a page from the taxi playbook](https://www.businessinsider.com/lyft-airport-fast-match-program-expands-taxi-cab-lines-2019-10) _(2019)_ <br>
+[Twitter will label election candidates with new badges on their profiles](https://www.theverge.com/2018/5/23/17384870/twitter-election-lable-badge-midterm-candidate) _(2018)_ <br>
+[Twitter is putting more live news events in your timeline and notifications](https://www.theverge.com/2018/6/13/17456908/twitter-live-news-events-timeline-notifications) _(2018)_ <br>
 
 ## 💻 Elsewhere on the Internet
 
