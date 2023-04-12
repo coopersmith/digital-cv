@@ -11,11 +11,11 @@ Building a product and design team from 0 to 1 in New York City and Paris.
 <br>
 
 **🚙 Senior Product Design Manager** @ [Lyft](https://sorare.com/) _(Jun 2018 - May 2022)_ <br>
-In my nearly four years at Lyft, I grew from a senior product designer to a senior designer manager, leading and managing a team of 10 designers for the core Rider experience, as well as our Mapping team. 
-  - _Senior Product Design Manager (Feb 2022-June 2022)_
-  - _Product Design Manager (Oct 2020 - Feb 2022)_ 
-  - _Staff Product Designer + Product Design Manager (ICM) (Feb 2020 - Oct 2020)_
-  - _Senior Product Designer (Jul 2018 - Feb 2020)_ 
+In my nearly four years at Lyft, I grew from a senior product designer to a senior designer manager, leading and managing a team of 10 designers for the core Rider experience, as well as our Mapping team.<br> 
+  - _Senior Product Design Manager (Feb 2022-June 2022)_<br>
+  - _Product Design Manager (Oct 2020 - Feb 2022)_ <br>
+  - _Staff Product Designer + Product Design Manager (ICM) (Feb 2020 - Oct 2020)_<br>
+  - _Senior Product Designer (Jul 2018 - Feb 2020)_ <br>
 
 **🐦 Senior Product Designer** @ [Twitter](https://twitter.com/) _(Mar 2015 - May 2018)_ <br>
 The majority of my three+ years at Twitter were spent bringing editorial and human curated content into the Twitter product to help add context to what users were seeing. Largely, this was through Moments and its successor of Events, but also in Information Quality / Health following the 2016 election, including Account Labels and misinformation. More context available in portfolio.
