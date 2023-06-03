@@ -1,6 +1,6 @@
 # Cooper Smith
 
-_Building world class products and the teams that design them in New York City 🗽_ <br>
+_Building world class products and design teams in New York City 🗽_ <br>
 
 [Email](mailto:coopersmi@gmail.com) / [Website](https://coopsmith.co/) / [LinkedIn](https://www.linkedin.com/in/coopersmith/) / [Twitter](https://twitter.com/coops/) 
 
@@ -11,14 +11,14 @@ Building a product and design team from 0 to 1 in New York City and Paris.
 <br>
 
 **🚙 Senior Product Design Manager** @ [Lyft](https://sorare.com/) _(Jun 2018 - May 2022)_ <br>
-In my nearly four years at Lyft, I grew from a senior product designer to a senior designer manager, leading and managing a team of 10 designers for the core Rider experience, as well as our Mapping team. 
-  - _Senior Product Design Manager (Feb 2022-June 2022)_
-  - _Product Design Manager (Oct 2020 - Feb 2022)_ 
-  - _Staff Product Designer + Product Design Manager (ICM) (Feb 2020 - Oct 2020)_
-  - _Senior Product Designer (Jul 2018 - Feb 2020)_ 
+In my nearly four years at Lyft, I grew from a senior product designer to a senior designer manager, leading and managing a team of 10 designers for the core Rider experience, as well as our Mapping team.<br> 
+  - _Senior Product Design Manager (Feb 2022-June 2022)_<br>
+  - _Product Design Manager (Oct 2020 - Feb 2022)_ <br>
+  - _Staff Product Designer + Product Design Manager (ICM) (Feb 2020 - Oct 2020)_<br>
+  - _Senior Product Designer (Jul 2018 - Feb 2020)_ <br>
 
 **🐦 Senior Product Designer** @ [Twitter](https://twitter.com/) _(Mar 2015 - May 2018)_ <br>
-Description of role
+The majority of my three+ years at Twitter were spent bringing editorial and human curated content into the Twitter product to help add context to what users were seeing. Largely, this was through Moments and its successor of Events, but also in Information Quality / Health following the 2016 election, including Account Labels and misinformation. More context available in portfolio.
   - _Senior Product Designer (Jul 2016 - May 2018)_
   - _Product Designer (Mar 2015 - Jul 2016)_  
     
@@ -47,6 +47,10 @@ Interned at Nike World HQ in Portland, Oregon in between semesters at School of 
 [US D987681 S](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D987681) - DISPLAY SCREEN O R PORTION THEREOF WITH GRAPHICAL USER INTERFACE _(May 30, 2023)_ <br>
 
 ## 📰 Articles
+[Inside Lyft’s years-long effort to give its drivers better maps](https://www.fastcompany.com/90839884/inside-lyfts-years-long-effort-to-give-its-drivers-better-maps) _(2023)_ <br>
+[Lyft has made airport pickups quicker and less confusing by taking a page from the taxi playbook](https://www.businessinsider.com/lyft-airport-fast-match-program-expands-taxi-cab-lines-2019-10) _(2019)_ <br>
+[Twitter will label election candidates with new badges on their profiles](https://www.theverge.com/2018/5/23/17384870/twitter-election-lable-badge-midterm-candidate) _(2018)_ <br>
+[Twitter is putting more live news events in your timeline and notifications](https://www.theverge.com/2018/6/13/17456908/twitter-live-news-events-timeline-notifications) _(2018)_ <br>
 
 ## 💻 Elsewhere on the Internet
 
