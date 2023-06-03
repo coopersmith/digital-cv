@@ -43,6 +43,9 @@ Interned at Nike World HQ in Portland, Oregon in between semesters at School of 
 [University of Colorado Boulder](https://www.colorado.edu/) - Boulder, Colorado _(2003 - 2007)_
 
 
+## 👨🏻‍🔬 Patents
+[US D987681 S](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D987681) - DISPLAY SCREEN O R PORTION THEREOF WITH GRAPHICAL USER INTERFACE _(May 30, 2023)_ <br>
+
 ## 📰 Articles
 
 ## 💻 Elsewhere on the Internet
