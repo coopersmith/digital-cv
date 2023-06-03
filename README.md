@@ -44,7 +44,7 @@ Interned at Nike World HQ in Portland, Oregon in between semesters at School of 
 
 
 ## 👨🏻‍🔬 Patents
-[US D987681 S](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D987681) - DISPLAY SCREEN O R PORTION THEREOF WITH GRAPHICAL USER INTERFACE _(May 30, 2023)_ <br>
+[US D987681 S](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D987681) - Display screen or portion thereof with graphical user interface _(May 30, 2023)_ <br>
 
 ## 📰 Articles
 [Inside Lyft’s years-long effort to give its drivers better maps](https://www.fastcompany.com/90839884/inside-lyfts-years-long-effort-to-give-its-drivers-better-maps) _(2023)_ <br>
