@@ -50,6 +50,13 @@ Interned at Nike World HQ in Portland, Oregon in between semesters at School of 
 ## 👨🏻‍🔬 Patents
 [US D987681 S](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D987681) - Display screen or portion thereof with graphical user interface _(May 30, 2023)_ <br>
 
+## 📖 Published
+[Infographic Designers' Sketchbooks](https://www.amazon.com/Infographics-Designers-Sketchbooks-Steven-Heller/dp/1616892862?crid=R4I9KT8QFUHU&keywords=infographic+sketchbook&qid=1689607220&s=books&sprefix=infographic+sketchbook,stripbooks,88&sr=1-1) _(2014)_ <br>
+
+[WIRED UK](http://cargocollective.com/coopersmith/WIRED-Joggers-Logged-1) _(2011)_ <br>
+
+[Graphic Design: Now in Production](https://shop.cooperhewitt.org/products/graphic-design-now-in-production) _(2011)_ <br>
+
 ## 📰 Articles
 [Inside Lyft’s years-long effort to give its drivers better maps](https://www.fastcompany.com/90839884/inside-lyfts-years-long-effort-to-give-its-drivers-better-maps) _(2023)_ <br>
 [Lyft has made airport pickups quicker and less confusing by taking a page from the taxi playbook](https://www.businessinsider.com/lyft-airport-fast-match-program-expands-taxi-cab-lines-2019-10) _(2019)_ <br>
@@ -58,6 +65,7 @@ Interned at Nike World HQ in Portland, Oregon in between semesters at School of 
 
 ## 💻 Elsewhere on the Internet
 
+🏃🏻‍♂️ Never without a camera and sharing on [Glass](https://glass.photo/coop)<br>
 🏃🏻‍♂️ Tracking my runs on [Strava](https://www.strava.com/athletes/77514)<br>
 🎧 Sharing playlists on [Spotify](https://open.spotify.com/playlist/0Z0AmcHYTioe3dUqFBXv5Q?si=a0d8ed185c524482)<br>
 🎬 Logging my movies on [Letterboxd](https://letterboxd.com/coopersmith/)<br>
