@@ -52,9 +52,7 @@ Interned at Nike World HQ in Portland, Oregon in between semesters at School of 
 
 ## 📖 Published
 [Infographic Designers' Sketchbooks](https://www.amazon.com/Infographics-Designers-Sketchbooks-Steven-Heller/dp/1616892862?crid=R4I9KT8QFUHU&keywords=infographic+sketchbook&qid=1689607220&s=books&sprefix=infographic+sketchbook,stripbooks,88&sr=1-1) _(2014)_ <br>
-
 [WIRED UK](http://cargocollective.com/coopersmith/WIRED-Joggers-Logged-1) _(2011)_ <br>
-
 [Graphic Design: Now in Production](https://shop.cooperhewitt.org/products/graphic-design-now-in-production) _(2011)_ <br>
 
 ## 📰 Articles
@@ -65,7 +63,7 @@ Interned at Nike World HQ in Portland, Oregon in between semesters at School of 
 
 ## 💻 Elsewhere on the Internet
 
-🏃🏻‍♂️ Never without a camera and sharing on [Glass](https://glass.photo/coop)<br>
+📷 Never without a camera and sharing on [Glass](https://glass.photo/coop)<br>
 🏃🏻‍♂️ Tracking my runs on [Strava](https://www.strava.com/athletes/77514)<br>
 🎧 Sharing playlists on [Spotify](https://open.spotify.com/playlist/0Z0AmcHYTioe3dUqFBXv5Q?si=a0d8ed185c524482)<br>
 🎬 Logging my movies on [Letterboxd](https://letterboxd.com/coopersmith/)<br>
