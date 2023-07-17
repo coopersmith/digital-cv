@@ -32,9 +32,9 @@ The majority of my three+ years at Twitter were spent bringing editorial and hum
 **👟 Product Design Intern** @ [Nike](https://nike.com/) _(May 2011 - August 2011)_ <br>
 Interned at Nike World HQ in Portland, Oregon in between semesters at School of Visual Arts. Designed new engagement features focused on achievements, location, and data visualization for Nike+ Running. Created detailed wireframes to hand off to visual design and engineering partner. Collaborated on projects for Nike+ FuelBand, Nike+ Basketball, and Nike+ Training.
 
-**💻 Digital Producer** @ Factory Design Labs _(May 2011 - August 2011)_ <br>
-**💻 Jr Producer** @ Wieden and Kennedy _(May 2011 - August 2011)_ <br>
-**💻 Interaction Coordinator** @ Crispin Porter + Bogusky _(May 2011 - August 2011)_ <br>
+**💻 Digital Producer** @ Factory Design Labs _(2008 - 2010)_ <br>
+**💻 Jr Producer** @ Wieden and Kennedy _(2007 - 2008)_ <br>
+**💻 Interaction Coordinator** @ Crispin Porter + Bogusky _(2006 - 2007)_ <br>
 
 
     
