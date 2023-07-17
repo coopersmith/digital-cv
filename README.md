@@ -6,12 +6,12 @@ _Building world class products and design teams in New York City 🗽_ <br>
 
 ## 👨🏻‍💻 Work Experience
 
-**💳 Director of Product Design, Head of Design Commerce** @ [Yahoo](https://Yahoo.com/) _(Jun 2023 - Present)_ <br>
+**💳 Director of Product Design, Head of Design - Commerce** @ [Yahoo](https://Yahoo.com/) _(Jun 2023 - Present)_ <br>
 Building a product design team for the Commerce team across Yahoo's properties 
 <br>
 
 **🏀 Senior Product Design Manager** @ [Sorare](https://sorare.com/) _(Jun 2022 - June 2023)_ <br>
-Building a product and design team from 0 to 1 in New York City and Paris. 
+Built a product and design team from 0 to 1 in New York City and Paris. 
 <br>
 
 **🚙 Senior Product Design Manager** @ [Lyft](https://sorare.com/) _(Jun 2018 - May 2022)_ <br>
